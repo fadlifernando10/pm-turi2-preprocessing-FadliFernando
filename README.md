@@ -1,7 +1,10 @@
 Praktikum 4: Preprocessing & Feature Engineering
+
 Mata Kuliah: pembelajaran Mesin
-Nama	   : Fadli Fernando
-Nim	   : 2488010043
+
+Nama	     : Fadli Fernando
+
+Nim	       : 2488010043
 
 ringkasan praktikum preprocessing dan feature engineering:
 - penanganan nilai hilang menggunakan imputasi median
